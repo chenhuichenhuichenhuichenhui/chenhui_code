@@ -18,6 +18,8 @@ public class Test13Zi extends Test13{
     public void m(){
         System.out.println("1233");
         convse(2);
+        List<Integer> list = new ArrayList<>();
+
     }
     public void v(){
         //注释测试
