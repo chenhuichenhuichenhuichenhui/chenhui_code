@@ -9,4 +9,7 @@ public class Test13Main {
         t.convse('c');
         t.convse("sddfd");
     }
+    public void f(){
+
+    }
 }

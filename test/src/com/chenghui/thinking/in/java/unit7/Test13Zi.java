@@ -7,4 +7,9 @@ public class Test13Zi extends Test13{
        String a = super.s;
         System.out.println("super String convse");
     }
+
+    public void z(){
+        System.out.println("123");
+        convse(1);
+    }
 }
