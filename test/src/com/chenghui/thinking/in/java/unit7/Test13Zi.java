@@ -8,8 +8,8 @@ public class Test13Zi extends Test13{
         System.out.println("super String convse");
     }
 
+    //演示方法
     public void z(){
-        System.out.println("123");
         convse(1);
     }
 }
