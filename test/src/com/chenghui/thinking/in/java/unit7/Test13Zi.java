@@ -1,5 +1,8 @@
 package com.chenghui.thinking.in.java.unit7;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Test13Zi extends Test13{
 
 
@@ -20,6 +23,7 @@ public class Test13Zi extends Test13{
         //注释测试
     }
     public void v2(){
-
+        System.out.println("111");
+        List<String> arr = new ArrayList();
     }
 }
