@@ -19,4 +19,7 @@ public class Test13Zi extends Test13{
     public void v(){
         //注释测试
     }
+    public void v2(){
+
+    }
 }
