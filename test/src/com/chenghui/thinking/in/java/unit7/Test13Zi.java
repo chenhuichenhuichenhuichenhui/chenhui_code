@@ -16,4 +16,7 @@ public class Test13Zi extends Test13{
         System.out.println("1233");
         convse(2);
     }
+    public void v(){
+        //注释测试
+    }
 }
