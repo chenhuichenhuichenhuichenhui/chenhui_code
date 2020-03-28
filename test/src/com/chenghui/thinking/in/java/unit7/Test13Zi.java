@@ -21,6 +21,7 @@ public class Test13Zi extends Test13{
     }
     public void v(){
         //注释测试
+        List<Integer> list = new ArrayList<>();
     }
     public void v2(){
         System.out.println("111");
