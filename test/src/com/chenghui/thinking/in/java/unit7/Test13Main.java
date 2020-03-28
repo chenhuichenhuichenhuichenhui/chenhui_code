@@ -12,4 +12,7 @@ public class Test13Main {
     public void f(){
         //演示注释
     }
+    public void x(){
+
+    }
 }

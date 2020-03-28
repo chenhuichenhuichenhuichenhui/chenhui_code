@@ -12,4 +12,8 @@ public class Test13Zi extends Test13{
     public void z(){
         convse(1);
     }
+    public void m(){
+        System.out.println("1233");
+        convse(2);
+    }
 }
